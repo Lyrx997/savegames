@@ -1,0 +1,26 @@
+# ignore game config files
+
+config.NFS11Save
+config.NFS13Save
+SystemDefault
+graphics.ini
+Settings.ini
+*.xml
+
+# ignore backup archives
+
+*.7z
+*.zip
+
+# ignore screenshots
+
+*.bmp
+*.png
+*.jpeg
+*.jpg
+
+# ignore misc files/directories
+
+cache
+temp
+*.replay
