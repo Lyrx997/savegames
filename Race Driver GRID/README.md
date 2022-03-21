@@ -8,7 +8,7 @@ Career completed, all cars unlocked.
 
 Install **8 Ball & Prestige Pack DLCs** for a better experience.
 
-### Usage
+## Usage
 
 Put `Codemasters` folder into the following path:
 

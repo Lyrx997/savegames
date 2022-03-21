@@ -4,7 +4,7 @@
 
 Story cleared (New Game+), all cars unlocked.
 
-### Usage
+## Usage
 
 Put `Ubisoft` folder into the following path:
 

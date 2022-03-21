@@ -5,7 +5,7 @@
 Campaign cleared with Warren, not all weps are unlocked. There are many snapshots into the folder, all before the last story mission.
 Also there are many diamonds yet to find.
 
-### Usage
+## Usage
 
 Put `My Games` folder into the following path:
 

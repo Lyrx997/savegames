@@ -1,4 +1,9 @@
-# ignore game config files
+# Ignore Windows metadata
+
+Thumbs.db
+desktop.ini
+
+# Ignore game config files
 
 config.NFS11Save
 config.NFS13Save
@@ -7,19 +12,19 @@ graphics.ini
 Settings.ini
 *.xml
 
-# ignore backup archives
+# Ignore backup archives
 
 *.7z
 *.zip
 
-# ignore screenshots
+# Ignore screenshots
 
 *.bmp
 *.png
 *.jpeg
 *.jpg
 
-# ignore misc files/directories
+# Ignore misc files/directories
 
 cache
 temp

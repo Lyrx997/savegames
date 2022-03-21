@@ -4,7 +4,7 @@
 
 Career Completed save. All cars unlocked. Extreme difficulty is unlocked.
 
-### Usage
+## Usage
 
 Put `NFSTR` folder into the following path:
 

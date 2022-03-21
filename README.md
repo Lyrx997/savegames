@@ -1,6 +1,6 @@
 # savegames
 
-## Bunch of savegames (mostly racing games) that I have on my pc.
+## A bunch of savegames (mostly racing games) that I have on my pc.
 
 ### Currently, there are 9 savegames in this repo:
 
