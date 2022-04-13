@@ -6,7 +6,7 @@ Career Completed save, with 672,330 Credits available, and an F40 and Tier 2 Bos
 
 ## Additional Notes
 
-For this savegame you must use [KryZeePlays's modpack](https://www.youtube.com/watch?v=hZqKkBw5jYs). Also, please enable **UnlockAllThings** into [NFSCExOpts](https://github.com/ExOptsTeam/NFSCExOpts) config file for **better compatibility**. You may **need** to fix the **CRC** in order to use this savegame.
+For this savegame you must use [KryZeePlays's modpack](https://www.youtube.com/watch?v=hZqKkBw5jYs). Also, please enable **UnlockAllThings** into [NFSCExOpts](https://github.com/ExOptsTeam/NFSCExOpts) config file for **a better experience**. You may **need** to fix the **CRC** in order to use this savegame.
 
 ## Usage
 
